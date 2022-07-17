@@ -1,7 +1,5 @@
 ## Apontamentos
 
----------
-
 O meu curso não é bem o meu sítio, nunca foi e cada vez menos é. Não sinto que tenha lá alguém que se importe muito comigo, que se eu desaparecer pergunte.
 Não serve de muito este blog.
 
