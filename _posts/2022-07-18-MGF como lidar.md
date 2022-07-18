@@ -1,6 +1,6 @@
-## MGF como lidar
+# MGF como lidar
 
-# Apontamentos à entrevista de Nuno Jacinto ao jornal I (In? Indispensável?)
+Apontamentos à entrevista de Nuno Jacinto ao jornal I (In? Indispensável?)
 
 Médicos indiferenciados podem substituir MGF nos centros de saúde, para remendar a falta de médicos de família.
 O governo quer colocar indiferenciados a fazer o trabalho de MGF. Acontecia até agora indiferenciados taparem buracos em centros de saúde, como as consultas de urgência ou do dia, não a seguir regularmente alguém como um médico de família.
