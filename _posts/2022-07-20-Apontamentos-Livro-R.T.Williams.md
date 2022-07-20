@@ -1,6 +1,6 @@
-## Apontamentos Livro R.T.Williams
+# Apontamentos Livro R.T.Williams
 
-# Trading
+## Trading
 
 Definições: liquidez, transparência, anonimidade, imediaticidade, preço de equilíbrio. 
 
