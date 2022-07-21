@@ -21,7 +21,11 @@ O dinheiro transacionado não vai parar às empresas nem governos.
 
 ## Cash Instruments
 
+Instrumentos de "cash" dão propriedade de algo, seja uma ação, obrigação, forex, matéria prima... É o oposto de um derivado, em que a compra de um derivado só nos dá propriedade sobre o contrato. Equities (stocks) - ações normais, propriedade de um ativo, normalmente parte de uma empresa. São perpétuas, não caducam nem têm prazos. Representa capital numa empresa.
 
+## Derivative Instruments
+
+Opções, futuros.
 
 
 
