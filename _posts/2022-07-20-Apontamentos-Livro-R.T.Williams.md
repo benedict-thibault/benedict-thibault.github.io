@@ -11,3 +11,19 @@ O interesse num ativo torna-o mais líquido, mais possível de transformar em di
 
 Transparência. Quanta informação pública existe do mercado. Sales reports, quotes, depth of book
 
+## Primary market
+
+Comprar diretamente a empresas e governos? Novas emissões, novas ações, novos certificados de tesouro? Capital raising, tudo o que aumente o capital de uma firma ou governo é um mercado primário. Opções e futuros também têm uma espécie de mercado principal, é quem as redige , depois são compradas uma primeira vez.
+
+## Secondary market
+
+O dinheiro transacionado não vai parar às empresas nem governos.
+
+## Cash Instruments
+
+
+
+
+
+
+
